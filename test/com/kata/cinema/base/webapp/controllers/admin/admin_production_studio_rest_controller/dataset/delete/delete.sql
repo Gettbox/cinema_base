@@ -1,0 +1,1 @@
+delete from production_studios where id = 100;
